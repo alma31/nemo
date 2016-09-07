@@ -1,0 +1,29 @@
+body
+{
+	background-color: #B0B0B0;
+  }
+
+  p
+  {
+	font-size: 22px;
+  }
+
+  header
+  {
+	text-align: center;
+	color: blue;
+	border: solid 5px;
+  }
+
+  h2
+  {
+	text-align: center;
+	color: red;
+  }
+
+  img
+  {
+	 width:100%;
+  }
+
+
